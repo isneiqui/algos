@@ -1,0 +1,10 @@
+# Compiled source 
+*.class
+*bin/*
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+/target
